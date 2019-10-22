@@ -1,0 +1,1 @@
+gbk code table support operations：ennumrate，choosing，save text or bin，and so on。
